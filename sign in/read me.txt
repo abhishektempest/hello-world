@@ -1,0 +1,3 @@
+if the registration of  same email or username are enter again in singup form it will show a error 
+also password are encrypted you can see in output 
+.................
